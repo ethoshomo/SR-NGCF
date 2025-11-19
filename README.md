@@ -77,4 +77,4 @@ Para garantir a reprodutibilidade e evitar conflitos de versões (especialmente 
     
 5. **Execução:** abrir o código no jupiter notebook (disponibilizado no diretório `codigo`).
 
-> Caso haja dificuldade, favor entrar em contato com os itengrantes do projeto.
+> Caso haja dificuldade, favor entrar em contato com os integrantes do projeto.
